@@ -1,10 +1,10 @@
-# calculator-project
+# Calculator-Project
 Simple calculator program built with Python as part of Session 02 practice.
 
 # Overview
 This calculator demonstrates fundamental Python programming concepts including functions, control flow, error handling, and user input validation. The program provides a continuous menu-driven interface for performing basic arithmetic operations.
 
-## Features
+# Features
 
 - Addition
 - Subtraction
