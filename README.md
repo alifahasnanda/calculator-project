@@ -23,7 +23,7 @@ This project was initialized using uv init.
 
 # Running the calculator
 1. Open Terminal
-2. cd ~/Desktop/calculator_project
+2. cd ~/Desktop/calculator-project
 3. uv run calculator.py
 
 # Usage Example
