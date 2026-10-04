@@ -22,7 +22,9 @@ This calculator demonstrates fundamental Python programming concepts including f
 This project was initialized using uv init.
 
 # Running the calculator
-uv run calculator.py in terminal
+1. Open Terminal
+2. cd ~/Desktop/calculator_project
+3. uv run calculator.py
 
 # Usage Example
 Welcome to Calculator!
