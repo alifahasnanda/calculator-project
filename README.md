@@ -38,7 +38,7 @@ Welcome to Calculator!
 Choose (1-5): 1
 Enter first number: 10
 Enter first number: 5
-Result: 10.0 + 5.0 = 15.0
+Result: 10 + 5 = 15
 
 # Project Structure
 calculator-project/
